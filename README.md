@@ -10,7 +10,7 @@
 </div>
 <h3 align="center">Passionate Game Enthusiast | C# Enthusiast | Developing Secure and Scalable .NET Applications</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" /> </p>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -109,7 +109,7 @@
   
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" /> </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
