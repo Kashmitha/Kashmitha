@@ -1,4 +1,4 @@
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -8,6 +8,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I am Kashmitha Madushan</h1></summary>
   </ul>
 </div>
+<h3 align="center">Passionate Game Enthusiast | C# Enthusiast | Developing Secure and Scalable .NET Applications</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" /> </p>
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -22,6 +25,8 @@
 
 
 <!--Intro start-->
+- 🧑‍🎓 I’m an Undergraduate at **Eastern University of Sri Lanka**
+
 - 🔭 I’m currently working on **ASP.NET Core, Angular, Spring Boot, SQL, Unity**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
@@ -34,7 +39,7 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [crzubzero](https://discord.com/channels/@me) my username!
 <!--Intro end-->
-
+<br>
 
 
 <!--- stats & Trophy (start) -->
@@ -80,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,cs,dotnet,discord,github,java,js,spring,mysql,postman,vscode,angular,blender,unity,stackoverflow,linkedin&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,azure,cs,dotnet,discord,github,java,js,spring,mysql,postman,vscode,angular,blender,unity,stackoverflow,linkedin&perline=14"/>
   </a>
 </p>
 
