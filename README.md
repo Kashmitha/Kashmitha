@@ -117,7 +117,7 @@ DevOps Engineer 🚀 | Full Stack Developer (.NET + React) 💻 | Unity Game Dev
   <img align="center" src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=FFFFFF" height="50" width="50" />
 </a>
 
-<a href="[https://www.instagram.com/kashmitha_madushan/](https://www.instagram.com/itz_kashmitha/)" target="blank">
+<a href="https://www.instagram.com/itz_kashmitha/" target="blank">
   <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" height="50" width="50" />
 </a>
 
