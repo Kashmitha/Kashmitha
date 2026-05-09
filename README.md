@@ -1,160 +1,213 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Kashmitha+Madushan;Platform+Engineer+%7C+DevOps+Engineer+%7C+Cloud+Engineer;Building+Scalable+Infrastructure+and+Reliable+Systems" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Kashmitha Madushan</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,25:111827,50:1E3A8A,75:2563EB,100:38BDF8&text=Kashmitha%20Madushan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Platform%20Engineer%20•%20DevOps%20Engineer%20•%20Cloud%20Native%20Engineer%20•%20SRE&descAlignY=58&animation=fadeIn"/>
 
-<h3 align="center">
-Platform Engineering • DevOps • Cloud Infrastructure • SRE
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Cloud+Infrastructure+☁️;Kubernetes+%7C+Terraform+%7C+CI%2FCD+%7C+Observability;Cloud-Native+Platform+Engineering+🚀;Infrastructure+as+Code+Specialist+🏗️;Site+Reliability+Engineering+⚡;Automating+Everything+with+DevOps+🔥"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Kashmitha&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kashmitha&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
+
+<img src="https://img.shields.io/github/followers/Kashmitha?style=for-the-badge&logo=github&color=111827&labelColor=0f172a"/>
+
+<img src="https://img.shields.io/github/stars/Kashmitha?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# ⚡ About Me
 
-- 🎓 Undergraduate at **Eastern University of Sri Lanka**
-- ☁️ Passionate about **Cloud Infrastructure & Platform Engineering**
-- 🚀 Focused on **DevOps, Kubernetes, CI/CD & Infrastructure Automation**
-- 🔧 Building scalable systems using:
-  - Kubernetes
-  - Docker
-  - Terraform
-  - Jenkins
-  - Azure
-  - Linux
-- 📦 Interested in:
-  - Site Reliability Engineering (SRE)
-  - Microservices
-  - Observability
-  - Internal Developer Platforms
-  - Cloud Native Technologies
-- 💻 Backend development with:
+```yaml
+name: Kashmitha Madushan
+role: Platform / DevOps / Cloud Engineer
+location: Sri Lanka 🇱🇰
+
+specializations:
+  - Platform Engineering
+  - DevOps Engineering
+  - Cloud Infrastructure
+  - Site Reliability Engineering
+  - Kubernetes & Container Platforms
+  - CI/CD Automation
+  - Infrastructure as Code
+
+current_focus:
+  - Kubernetes Production Architecture
+  - GitOps & ArgoCD
+  - Terraform Infrastructure Automation
+  - Monitoring & Observability
+  - Cloud Native Systems
+  - High Availability Infrastructure
+
+backend:
   - ASP.NET Core
-  - Node.js
+  - REST APIs
   - SQL Server
   - PostgreSQL
-- 🎮 Also experienced with Unity & C#
+
+other_interests:
+  - Unity Game Development
+  - Distributed Systems
+  - Linux Engineering
+
+motto: "Automate. Scale. Observe. Improve."
+```
 
 ---
 
-## 🧰 Tech Stack
+# ☁️ Cloud Native Tech Stack
 
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,jenkins,linux,bash,nginx,git,github" />
-</p>
+<div align="center">
 
-### 💻 Backend & Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,nodejs" />
-</p>
+### 🚀 Platform Engineering
 
-### 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### 🛠️ Tools & Monitoring
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postman,grafana,prometheus,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,ansible,jenkins,githubactions,bash,nginx&perline=9"/>
 
 ---
 
-## 📌 Featured Projects
+### ☁️ Cloud & Infrastructure
 
-### 🔹 GemOps — Cloud Native Observability Platform
-- Provisioned production-ready Kubernetes infrastructure
-- Automated CI/CD pipelines using Jenkins
-- Managed secrets & observability stack
-- Infrastructure as Code using Terraform
-
-### 🔹 Kubernetes Microservices Deployment
-- Dockerized multi-service applications
-- Deployed on Kubernetes clusters
-- Configured ingress, autoscaling & monitoring
-
-### 🔹 Full Stack ASP.NET + React Applications
-- REST API development
-- JWT Authentication
-- SQL Server & PostgreSQL integration
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare&perline=4"/>
 
 ---
 
-## 📊 GitHub Analytics
+### 💻 Backend & Full Stack
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1Kashmitha&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,js,ts&perline=6"/>
+
+---
+
+### 🗄️ Databases & Observability
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prometheus,grafana&perline=5"/>
+
+---
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,blender,unity&perline=7"/>
+
+</div>
+
+---
+
+# 🧠 Engineering Philosophy
+
+<div align="center">
+
+| Principle | Focus |
+|---|---|
+| ⚡ Reliability | Design resilient & fault tolerant systems |
+| ☁️ Scalability | Build cloud-native production-ready platforms |
+| 🔄 Automation | Automate infrastructure & delivery pipelines |
+| 📊 Observability | Monitor everything proactively |
+| 🔐 Security | Shift-left security & secrets management |
+| 🚀 Performance | Optimize systems for speed & efficiency |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kashmitha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kashmitha&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashmitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashmitha&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Kashmitha&theme=tokyonight&row=1&column=7&no-frame=true&margin-h=12&margin-w=8"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kashmitha/Kashmitha/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kashmitha/Kashmitha/output/github-contribution-grid-snake.svg"/>
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=1Kashmitha&theme=tokyonight&hide_border=true" />
-</p>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kashmitha/Kashmitha/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Kashmitha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Featured Engineering Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1Kashmitha&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<div align="center">
 
----
+| Project | Description | Stack |
+|---|---|---|
+| 🔹 GemOps | Full-stack observability & secrets platform on Kubernetes | EKS, Terraform, Jenkins |
+| 🔹 Kubernetes Microservices | Production-grade microservices deployment | Docker, K8s, Helm |
+| 🔹 CI/CD Automation Platform | Automated deployment pipelines | Jenkins, GitHub Actions |
+| 🔹 Cloud Infrastructure Lab | IaC provisioning & cloud automation | Azure, Terraform |
+| 🔹 Full Stack Enterprise Apps | Modern backend + frontend systems | ASP.NET Core + React |
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Kashmitha&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1Kashmitha/1Kashmitha/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/kashmitha-madushan-362822339/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<a href="https://www.linkedin.com/in/kashmitha-madushan-362822339/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/1Kashmitha" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+<a href="https://github.com/Kashmitha">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/KashmithaMad" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" />
+<a href="https://x.com/KashmithaMad">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/itz_kashmitha/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+<a href="mailto:kashmithamadushan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://discord.com/users/crzubzero">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💡 Dev Quote
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,25:2563EB,50:1E3A8A,75:111827,100:0B1026"/>
 
----
+### ⚡ “Build Platforms. Automate Infrastructure. Engineer Reliability.” ⚡
 
-<p align="center">
-  <i>Building reliable platforms, scalable infrastructure, and production-ready systems 🚀</i>
-</p>
+</div>
