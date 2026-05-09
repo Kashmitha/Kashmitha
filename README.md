@@ -18,41 +18,46 @@
 
 # ⚡ About Me
 
-```yaml
-name: Kashmitha Madushan
-role: Platform / DevOps / Cloud Engineer
-location: Sri Lanka 🇱🇰
+<div align="center">
 
-specializations:
-  - Platform Engineering
-  - DevOps Engineering
-  - Cloud Infrastructure
-  - Site Reliability Engineering
-  - Kubernetes & Container Platforms
-  - CI/CD Automation
-  - Infrastructure as Code
+<table>
+<tr>
+<td width="50%">
 
-current_focus:
-  - Kubernetes Production Architecture
-  - GitOps & ArgoCD
-  - Terraform Infrastructure Automation
-  - Monitoring & Observability
-  - Cloud Native Systems
-  - High Availability Infrastructure
+### 👨‍💻 Platform & Cloud Engineer
 
-backend:
-  - ASP.NET Core
-  - REST APIs
-  - SQL Server
-  - PostgreSQL
+- 🚀 Passionate about **Platform Engineering**, **DevOps** & **Cloud Native Systems**
+- ☁️ Building scalable infrastructure using **Kubernetes**, **Terraform** & **Docker**
+- 🔄 Automating deployments with **CI/CD pipelines**
+- 📊 Focused on **Observability**, **Reliability** & **Infrastructure Automation**
+- 🛠️ Experienced with **ASP.NET Core**, **React** & modern backend systems
+- 🎮 Also interested in **Unity Game Development** & system architecture
 
-other_interests:
-  - Unity Game Development
-  - Distributed Systems
-  - Linux Engineering
+</td>
 
-motto: "Automate. Scale. Observe. Improve."
-```
+<td width="50%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW92Ym9oY2x6eHFyMWdwZnJkYmV3ZW9yYzI3NXNsMzVqNnZ6dnR5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+| 🚀 Focus Areas | ⚡ Current Learning |
+|---|---|
+| Platform Engineering | Advanced Kubernetes |
+| DevOps & Automation | GitOps (ArgoCD) |
+| Cloud Infrastructure | Service Mesh (Istio) |
+| CI/CD Pipelines | Observability Stack |
+| Infrastructure as Code | Cloud Native Security |
+
+</div>
 
 ---
 
