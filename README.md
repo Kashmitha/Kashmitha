@@ -1,138 +1,179 @@
-<p align="center" >
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px>
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kashmitha%20Madushan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%7C%20Platform%20%7C%20Cloud%20%7C%20SRE&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I am Kashmitha Madushan</h1>
-    </summary>
-  </ul>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&multiline=false&width=600&lines=Infrastructure+as+Code+%F0%9F%8F%97%EF%B8%8F;Cloud+Native+Architect+%E2%98%81%EF%B8%8F;CI%2FCD+Pipeline+Engineer+%F0%9F%9A%80;Site+Reliability+Engineer+%F0%9F%94%A7;Container+%26+Kubernetes+Specialist+%F0%9F%90%B3;Game+Developer+%7C+Unity+%26+C%23+%F0%9F%8E%AE" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile views + followers badges -->
+<img src="https://komarev.com/ghpvc/?username=Kashmitha&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/Kashmitha?tab=followers">
+  <img src="https://img.shields.io/github/followers/Kashmitha?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers"/>
+</a>
+
 </div>
 
-<h3 align="center">
-DevOps Engineer 🚀 | Full Stack Developer (.NET + React) 💻 | Unity Game Developer 🎮
-</h3>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Kashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="Kashmitha" />
-</p>
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
+```yaml
+name: Kashmitha Madushan
+location: Sri Lanka 🇱🇰
+university: Eastern University of Sri Lanka
+degree: B.Sc. (Hons) Computer Science — Final Year
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Building Scalable Systems, Modern Web Apps & Immersive Games</h2>
-    </summary>
-  </ul>
+roles:
+  - DevOps Engineer
+  - Platform Engineer
+  - Cloud Engineer (Azure)
+  - Site Reliability Engineer (SRE)
+  - Full Stack Developer (.NET + React)
+  - Unity Game Developer
+
+focus_areas:
+  - Cloud Infrastructure & IaC (Terraform, Azure)
+  - Container Orchestration (Docker, Kubernetes)
+  - CI/CD Automation (Jenkins, GitHub Actions)
+  - Microservices Architecture
+  - Observability & Reliability Engineering
+  - Full Stack Web (ASP.NET Core + React + SQL)
+  - Game Development (Unity, C#)
+
+currently_learning:
+  - Advanced Kubernetes (CKA prep)
+  - GitOps with ArgoCD & Flux
+  - Service Mesh (Istio)
+  - Observability Stack (Prometheus, Grafana, Loki)
+
+contact: kashmithamadushan@gmail.com
+```
+
+---
+
+## 🚀 Core Competencies
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=azure,terraform,ansible&perline=3"/>
+
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&perline=3"/>
+
+### 🔄 CI/CD & DevOps Tooling
+<img src="https://skillicons.dev/icons?i=jenkins,github,git&perline=3"/>
+
+### 💻 Full Stack Development
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,mysql,postgres,postman&perline=8"/>
+
+### 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=unity,blender&perline=2"/>
+
 </div>
 
-<!-- Intro start -->
-- 🧑‍🎓 I’m an Undergraduate at **Eastern University of Sri Lanka**
+---
 
-- 🚀 My Main Focus: **DevOps Engineering & Cloud Infrastructure**
+## 📊 GitHub Analytics
 
-- 🔭 I build and automate systems using **Azure, Terraform, Jenkins, Docker, Kubernetes**
+<div align="center">
 
-- 💻 I develop full stack applications using **ASP.NET Core, React, SQL Server**
-
-- 🎮 I create interactive experiences using **Unity & C#**
-
-- 🌱 Currently mastering **CI/CD Pipelines, Microservices Architecture & Container Orchestration**
-
-- ☁️ Passionate about building **Secure, Scalable & Production-Ready Applications**
-
-- 💬 Ask me about **DevOps, ASP.NET Core, React, SQL, Unity, CI/CD**
-
-- 📫 Reach me at: **kashmithamadushan@gmail.com**
-
-- 🏠 Discord: [crzubzero](https://discord.com/channels/@me)
-<!-- Intro end -->
-
-<br>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashmitha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Kashmitha&theme=dark&hide_border=false" /> 
+<table>
+<tr>
+<td width="50%">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Kashmitha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 </td>
-
-<td width="50%" align="center">
-  <img align="center" 
-       src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kashmitha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="50%">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kashmitha&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashmitha&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500"/>
 </td>
 </tr>
 </table>
-</p>
 
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width=84% 
-           src="https://github-profile-trophy.vercel.app/?username=Kashmitha&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-  </a>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2>
-    </summary>
-  </ul>
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Kashmitha&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=10&margin-w=5"/>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,jenkins,git,github,cs,dotnet,react,js,ts,mysql,postgres,unity,blender,postman,linux&perline=9"/>
-  </a>
-</p>
+---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Connect With Me 🤝</h2>
-    </summary>
-  </ul>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kashmitha&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kashmitha-madushan-362822339/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
-</a>
+---
 
-<a href="https://github.com/Kashmitha" target="blank">
-  <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" height="50" width="50" />
-</a>
+## 🐍 Contribution Snake
 
-<a href="https://x.com/KashmithaMad" target="blank">
-  <img align="center" src="https://img.icons8.com/?size=100&id=A4DsujzAX4rw&format=png&color=FFFFFF" height="50" width="50" />
-</a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kashmitha/Kashmitha/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kashmitha/Kashmitha/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Kashmitha/Kashmitha/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<a href="https://www.instagram.com/itz_kashmitha/" target="blank">
-  <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" height="50" width="50" />
-</a>
+---
 
-<a href="https://discord.com/users/crzubzero/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" height="50" width="50" />
-</a>
-</p>
+## 🛠️ DevOps Toolkit Breakdown
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kashmitha&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| Domain | Tools & Technologies |
+|---|---|
+| **Cloud Platform** | Microsoft Azure (AKS, App Service, Azure DevOps, Key Vault, ACR) |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **Containers** | Docker, Docker Compose, Kubernetes, Helm |
+| **CI/CD** | Jenkins, GitHub Actions, Azure Pipelines |
+| **Monitoring & Observability** | Prometheus, Grafana, Azure Monitor |
+| **Version Control** | Git, GitHub |
+| **OS & Scripting** | Linux (Ubuntu/CentOS), Bash |
+| **Backend** | ASP.NET Core, C#, REST APIs |
+| **Frontend** | React, TypeScript, JavaScript |
+| **Databases** | SQL Server, PostgreSQL, MySQL |
+| **Game Dev** | Unity 2022, C#, Blender |
 
-----------------------------------------------------------------------
-Credit: [Kashmitha](https://github.com/Kashmitha)
+</div>
 
-Last Edited On: 21/02/2026
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashmitha%20Madushan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashmitha-madushan-362822339/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kashmitha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashmitha)
+[![X / Twitter](https://img.shields.io/badge/X-KashmithaMad-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KashmithaMad)
+[![Instagram](https://img.shields.io/badge/Instagram-itz__kashmitha-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_kashmitha/)
+[![Discord](https://img.shields.io/badge/Discord-crzubzero-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/crzubzero/)
+[![Email](https://img.shields.io/badge/Email-kashmithamadushan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashmithamadushan@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+*"Automate everything. Observe everything. Improve everything."*
+
+</div>
