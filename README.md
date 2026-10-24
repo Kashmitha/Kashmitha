@@ -36,9 +36,9 @@ Personal projects where I practice infrastructure automation, delivery workflows
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [![GemOps](https://img.shields.io/badge/GemOps-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashmitha/gemops-project) | Cloud infrastructure and Kubernetes deployment, with observability, secrets management, and container scanning. | AWS EKS, Terraform, Helm, GitHub Actions, Prometheus, Grafana, Vault, Trivy |
-| [![Azure Terraform](https://img.shields.io/badge/Azure_Terraform-1E3A8A?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Kashmitha/devops-project-2-azure-terraform) | Modular networking and Linux VM provisioning, remote state, and Terraform plan/apply workflows. | Azure, Terraform, GitHub Actions |
-| [![Ansible Server Hardening](https://img.shields.io/badge/Ansible_Server_Hardening-1E3A8A?style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/Kashmitha/devops-project-3) | Role-based Azure VM configuration, SSH hardening, firewall and fail2ban setup, with CI linting and syntax checks. | Ansible, Azure, Linux, Nginx, Docker, GitHub Actions |
+| <a href="https://github.com/Kashmitha/gemops-project"><img src="assets/projects/gemops.svg" alt="GemOps" width="264" height="40"></a> | Cloud infrastructure and Kubernetes deployment, with observability, secrets management, and container scanning. | AWS EKS, Terraform, Helm, GitHub Actions, Prometheus, Grafana, Vault, Trivy |
+| <a href="https://github.com/Kashmitha/devops-project-2-azure-terraform"><img src="assets/projects/azure-terraform.svg" alt="Azure Terraform" width="264" height="40"></a> | Modular networking and Linux VM provisioning, remote state, and Terraform plan/apply workflows. | Azure, Terraform, GitHub Actions |
+| <a href="https://github.com/Kashmitha/devops-project-3"><img src="assets/projects/ansible-hardening.svg" alt="Ansible Server Hardening" width="264" height="40"></a> | Role-based Azure VM configuration, SSH hardening, firewall and fail2ban setup, with CI linting and syntax checks. | Ansible, Azure, Linux, Nginx, Docker, GitHub Actions |
 
 [![Explore repositories](https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kashmitha?tab=repositories)
 
