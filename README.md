@@ -30,9 +30,6 @@ Selected tools used across my projects and learning:
 **Cloud:** AWS · Azure  
 **Application development:** C# · ASP.NET Core · React
 
-## Featured projects
-
-
 ## GitHub Activity & Coding Stats
 
 <div align="center">
@@ -50,6 +47,7 @@ Selected tools used across my projects and learning:
   </a>
 </div>
 
+## Featured projects
 
 Personal projects where I practice infrastructure automation, delivery workflows, and operational tooling.
 
