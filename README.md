@@ -32,6 +32,25 @@ Selected tools used across my projects and learning:
 
 ## Featured projects
 
+
+## GitHub Activity & Coding Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kashmitha&theme=dark"
+    alt="Kashmitha's GitHub Streak Stats"
+    width="400"
+  />
+  <a href="https://leetcode.com/Kashmitha/">
+    <img
+      src="https://leetcard.jacoblin.cool/Kashmitha?theme=dark"
+      alt="Kashmitha's LeetCode Stats"
+      width="400"
+    />
+  </a>
+</div>
+
+
 Personal projects where I practice infrastructure automation, delivery workflows, and operational tooling.
 
 | Project | Focus | Technologies |
